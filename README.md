@@ -1,16 +1,12 @@
-# hello_world
+# CALCULADORA SIMPLES "Hello World"
 
-A new Flutter project.
+Meu primeiro projeto em Flutter
 
-## Getting Started
+## Versão do Flutter e Windows
 
-This project is a starting point for a Flutter application.
+Flutter (Channel stable, 1.22.3, on Microsoft Windows [versÃ£o 10.0.19042.572], locale pt-BR)
 
-A few resources to get you started if this is your first Flutter project:
+## Packages
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+math_expressions 2.0.1
+https://pub.dev/packages/math_expressions/install
